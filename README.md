@@ -24,13 +24,6 @@ Good discovery,
   <img src="https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM1LmdpZg==/original/SQoT4e.gif" />
 </p>
 
-
-![Ingame1](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMyLmdpZg==/original/whZVZr.gif)
-
-![Ingame2](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMzLmdpZg==/original/f%2BjjZF.gif)
-
-![Ingame3](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM1LmdpZg==/original/SQoT4e.gif)
-
 ![Victory](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM2LnBuZw==/original/%2BMlK4y.png)
 
 ![GameOver](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM3LnBuZw==/original/KkcV4s.png)
