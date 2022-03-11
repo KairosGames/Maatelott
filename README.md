@@ -21,8 +21,10 @@ Good discovery,
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMyLmdpZg==/original/whZVZr.gif" />
   <br>
+  
   <img src="https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMzLmdpZg==/original/f%2BjjZF.gif" />
   <br>
+  
   <img src="https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzM1LmdpZg==/original/SQoT4e.gif" />
 </p>
 
