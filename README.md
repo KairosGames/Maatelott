@@ -18,7 +18,7 @@ Good discovery,
 
 ![Menu](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMxLnBuZw==/original/Ll9ane.png)
 
-![Ingame1](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMyLmdpZg==/original/whZVZr.gif)
+<p align=center> ![Ingame1](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMyLmdpZg==/original/whZVZr.gif)
 
 ![Ingame2](https://img.itch.zone/aW1hZ2UvMTI5NDQ2NS84MzA2MzMzLmdpZg==/original/f%2BjjZF.gif)
 
