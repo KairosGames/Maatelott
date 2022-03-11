@@ -1,0 +1,26 @@
+<html>
+    <style>
+        body {
+            text-align: center ;
+            background-color: 222222 ;
+        }
+    </style>
+    <body onkeydown="preventUseOfDefaultKeys(event);">
+        <canvas id="canvas" width="1200" height="600" style="background-color: black;"></canvas>
+        <script src="rsrcsloader.js"></script>
+        <script src="sprites.js"></script>
+        <script src="background.js"></script>
+        <script src="wvsmanager.js"></script>
+        <script src="ship.js"></script>
+        <script src="bullsmanager.js"></script>
+        <script src="collsmanager.js"></script>
+        <script src="effsmanager.js"></script>
+        <script src="displmanager.js"></script>
+        <script src="game.js"></script>
+        <script src="main.js"></script>
+    </body>
+    <script>
+        window.onload = function () { window.focus(); } ;
+        window.onclick = function () { window.focus(); };
+    </script>
+</html>
