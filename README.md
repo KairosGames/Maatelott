@@ -6,7 +6,7 @@ Here are the sources of my second video game, *Maatelott*, a 2D Shoot'em up, dev
 <br/>
 I share with you below some gameplay moments.  
 <br/>
-You can also discover a gameplay video by clicking on this link : https://youtu.be/AxRE42C3JJQ  
+You can also discover a gameplay video by clicking on this link : https://youtu.be/AjjSvnnY70U  
 <br/>
 Or visit the Itch.io game page : https://kayrosgames.itch.io/maatelott  
 <br/>
