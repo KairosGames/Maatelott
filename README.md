@@ -5,7 +5,7 @@ Dear visitor,
 Here are the sources of my second video game, *Maatelott*, a 2D Shoot'em up, developed in the JavaScript language in object-oriented programming, on a canvas of an HTML page.  
 <br/>
 I share with you below some gameplay moments.  
-<br/>
+<br/> 
 You can also discover a gameplay video by clicking on this link : https://youtu.be/AjjSvnnY70U  
 <br/>
 Or visit the Itch.io game page : https://kayrosgames.itch.io/maatelott  
